@@ -147,7 +147,7 @@
 ![](images/Binarios/code_contacto-cpp.png)
 #### :exclamation: acceso_aleatorio.hpp
 ![](images/Binarios/code_acceso_aleatorio-hpp.png)
-#### :exclamation: Contacto.cpp
+#### :exclamation: acceso_aleatorio.cpp
 ![](images/Binarios/code_acceso_aleatorio-cpp.png)
 
 ### :open_file_folder: Salida
